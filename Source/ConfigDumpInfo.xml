@@ -1,7 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.18">
 	<ConfigVersions>
-		<Metadata name="Configuration.Algo1C" id="558277ad-9977-400a-9e2a-db13a90bb5e8" configVersion="f51981742bc85c4fa8c5605fdb15adca00000000"/>
+		<Metadata name="CommonForm.ГлавныйЭкран" id="3290b7c9-051f-475d-b76b-1a03ad13ae35" configVersion="e4d5474ec145544a9caeee46accb16f400000000"/>
+		<Metadata name="CommonForm.ГлавныйЭкран.Form" id="3290b7c9-051f-475d-b76b-1a03ad13ae35.0" configVersion="292c602a494ed94ebeafdbfd2dbce8c600000000"/>
+		<Metadata name="CommonModule.РаботаСКодомСервер" id="ce8797ae-7902-48c6-bced-b85a75df546f" configVersion="6e7241a8cd32a8408ade0e3bd0f51a8200000000"/>
+		<Metadata name="CommonModule.РаботаСКодомСервер.Module" id="ce8797ae-7902-48c6-bced-b85a75df546f.0" configVersion="f891f5a83b39ba41a57b2f46e9b7a80400000000"/>
+		<Metadata name="Configuration.Algo1C" id="558277ad-9977-400a-9e2a-db13a90bb5e8" configVersion="2d6ba318f0f6b742b5f883b6623348cb00000000"/>
+		<Metadata name="Configuration.Algo1C.HomePageWorkArea" id="58c2f6ca-a699-48a9-9a04-70ab54cf174a.8" configVersion="968b99cb043799468eae5f2e026184d500000000"/>
+		<Metadata name="Configuration.Algo1C.SessionModule" id="58c2f6ca-a699-48a9-9a04-70ab54cf174a.7" configVersion="7225e4c59abec54997ac22709e1a701900000000"/>
 		<Metadata name="Language.Русский" id="01b56051-03fc-48b7-8402-f82c477da1b8" configVersion="2b5d059856a51147bac0f3c89d9d862700000000"/>
+		<Metadata name="Style.КлассическийСтиль" id="e522386b-e5e0-4154-9236-7aa287de2b2c" configVersion="95a796df8c4c8f49a88ff0898c74aa4d00000000"/>
+		<Metadata name="Style.ТёмныйСтиль" id="9c4d37ca-d85e-4d80-868c-7df99d608dca" configVersion="45591a617d819f419b0df21344dee33b00000000"/>
+		<Metadata name="Style.ТёмныйСтиль.Style" id="9c4d37ca-d85e-4d80-868c-7df99d608dca.0" configVersion="100e560e425f4545b06506bc6d46bf7500000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

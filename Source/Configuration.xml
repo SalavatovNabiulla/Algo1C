@@ -49,7 +49,7 @@
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRoles/>
 			<Vendor>TheNabiulla</Vendor>
-			<Version>0.2</Version>
+			<Version>0.3</Version>
 			<UpdateCatalogAddress/>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<UseManagedFormInOrdinaryApplication>false</UseManagedFormInOrdinaryApplication>
@@ -254,6 +254,7 @@
 			<Style>ТёмныйСтиль</Style>
 			<CommonModule>РаботаСКодомСервер</CommonModule>
 			<CommonForm>ГлавныйЭкран</CommonForm>
+			<Catalog>Задачи</Catalog>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

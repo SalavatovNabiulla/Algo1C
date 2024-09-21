@@ -1,11 +1,15 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.18">
 	<ConfigVersions>
-		<Metadata name="CommonForm.ГлавныйЭкран" id="3290b7c9-051f-475d-b76b-1a03ad13ae35" configVersion="0edf0f89e94d974da727e48e7250f16c00000000"/>
-		<Metadata name="CommonForm.ГлавныйЭкран.Form" id="3290b7c9-051f-475d-b76b-1a03ad13ae35.0" configVersion="1af8b8c1ebaa2442be30cbe8a6a6686e00000000"/>
-		<Metadata name="CommonModule.РаботаСКодомСервер" id="ce8797ae-7902-48c6-bced-b85a75df546f" configVersion="a63a7e04d9578e47bc817c2dff01753c00000000"/>
-		<Metadata name="CommonModule.РаботаСКодомСервер.Module" id="ce8797ae-7902-48c6-bced-b85a75df546f.0" configVersion="37bee1f47605ef4d9cc2497769588f0200000000"/>
-		<Metadata name="Configuration.Algo1C" id="558277ad-9977-400a-9e2a-db13a90bb5e8" configVersion="97ca1ea5ede9594d975cf9123c0b0a4f00000000"/>
+		<Metadata name="Catalog.Задачи" id="83476173-2d29-40ec-af8c-f65545c909e1" configVersion="e0698567d91e2046801cc6c8395c9cbf00000000">
+			<Metadata name="Catalog.Задачи.Attribute.СсылкаНаЗадачу" id="2daf805d-2cce-4e58-b3b3-412aba859d60"/>
+			<Metadata name="Catalog.Задачи.Attribute.КодРешения" id="5a65f15f-95ba-43f5-ad4b-6ac647c7f78d"/>
+		</Metadata>
+		<Metadata name="CommonForm.ГлавныйЭкран" id="3290b7c9-051f-475d-b76b-1a03ad13ae35" configVersion="717836de13b3634d8e0ed036b9a64ae500000000"/>
+		<Metadata name="CommonForm.ГлавныйЭкран.Form" id="3290b7c9-051f-475d-b76b-1a03ad13ae35.0" configVersion="def9328e4b7b5c4587da2ebeb744179e00000000"/>
+		<Metadata name="CommonModule.РаботаСКодомСервер" id="ce8797ae-7902-48c6-bced-b85a75df546f" configVersion="297fbf273cf8c84fa59b4651d64b5a3200000000"/>
+		<Metadata name="CommonModule.РаботаСКодомСервер.Module" id="ce8797ae-7902-48c6-bced-b85a75df546f.0" configVersion="6a25871533ae164eac791df92ae8159700000000"/>
+		<Metadata name="Configuration.Algo1C" id="558277ad-9977-400a-9e2a-db13a90bb5e8" configVersion="798970b6cad2eb44af013be96c3d35f200000000"/>
 		<Metadata name="Configuration.Algo1C.HomePageWorkArea" id="58c2f6ca-a699-48a9-9a04-70ab54cf174a.8" configVersion="968b99cb043799468eae5f2e026184d500000000"/>
 		<Metadata name="Configuration.Algo1C.SessionModule" id="58c2f6ca-a699-48a9-9a04-70ab54cf174a.7" configVersion="7225e4c59abec54997ac22709e1a701900000000"/>
 		<Metadata name="Language.Русский" id="01b56051-03fc-48b7-8402-f82c477da1b8" configVersion="2b5d059856a51147bac0f3c89d9d862700000000"/>

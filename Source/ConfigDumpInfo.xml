@@ -7,9 +7,9 @@
 		</Metadata>
 		<Metadata name="CommonForm.ГлавныйЭкран" id="3290b7c9-051f-475d-b76b-1a03ad13ae35" configVersion="717836de13b3634d8e0ed036b9a64ae500000000"/>
 		<Metadata name="CommonForm.ГлавныйЭкран.Form" id="3290b7c9-051f-475d-b76b-1a03ad13ae35.0" configVersion="def9328e4b7b5c4587da2ebeb744179e00000000"/>
-		<Metadata name="CommonModule.РаботаСКодомСервер" id="ce8797ae-7902-48c6-bced-b85a75df546f" configVersion="297fbf273cf8c84fa59b4651d64b5a3200000000"/>
-		<Metadata name="CommonModule.РаботаСКодомСервер.Module" id="ce8797ae-7902-48c6-bced-b85a75df546f.0" configVersion="6a25871533ae164eac791df92ae8159700000000"/>
-		<Metadata name="Configuration.Algo1C" id="558277ad-9977-400a-9e2a-db13a90bb5e8" configVersion="798970b6cad2eb44af013be96c3d35f200000000"/>
+		<Metadata name="CommonModule.РаботаСКодомСервер" id="ce8797ae-7902-48c6-bced-b85a75df546f" configVersion="9d54d29de9c24e45a483d3ae39c2984500000000"/>
+		<Metadata name="CommonModule.РаботаСКодомСервер.Module" id="ce8797ae-7902-48c6-bced-b85a75df546f.0" configVersion="a5ae5952b3645648a4e9d9b03f02793900000000"/>
+		<Metadata name="Configuration.Algo1C" id="558277ad-9977-400a-9e2a-db13a90bb5e8" configVersion="6e9105297bf2c04a89e316d1e7702fec00000000"/>
 		<Metadata name="Configuration.Algo1C.HomePageWorkArea" id="58c2f6ca-a699-48a9-9a04-70ab54cf174a.8" configVersion="968b99cb043799468eae5f2e026184d500000000"/>
 		<Metadata name="Configuration.Algo1C.SessionModule" id="58c2f6ca-a699-48a9-9a04-70ab54cf174a.7" configVersion="7225e4c59abec54997ac22709e1a701900000000"/>
 		<Metadata name="Language.Русский" id="01b56051-03fc-48b7-8402-f82c477da1b8" configVersion="2b5d059856a51147bac0f3c89d9d862700000000"/>

@@ -5,11 +5,13 @@
 			<Metadata name="Catalog.Задачи.Attribute.СсылкаНаЗадачу" id="2daf805d-2cce-4e58-b3b3-412aba859d60"/>
 			<Metadata name="Catalog.Задачи.Attribute.КодРешения" id="5a65f15f-95ba-43f5-ad4b-6ac647c7f78d"/>
 		</Metadata>
-		<Metadata name="CommonForm.ГлавныйЭкран" id="3290b7c9-051f-475d-b76b-1a03ad13ae35" configVersion="717836de13b3634d8e0ed036b9a64ae500000000"/>
-		<Metadata name="CommonForm.ГлавныйЭкран.Form" id="3290b7c9-051f-475d-b76b-1a03ad13ae35.0" configVersion="def9328e4b7b5c4587da2ebeb744179e00000000"/>
+		<Metadata name="CommonForm.ГлавныйЭкран" id="3290b7c9-051f-475d-b76b-1a03ad13ae35" configVersion="132d909dd22c244ba6e9fd2c2afe0ddf00000000"/>
+		<Metadata name="CommonForm.ГлавныйЭкран.Form" id="3290b7c9-051f-475d-b76b-1a03ad13ae35.0" configVersion="a8c3bdeacf06754796f865f4bb4b76ab00000000"/>
+		<Metadata name="CommonModule.РаботаСКодомКлиент" id="73ace7ee-6ece-44df-86f6-c0a1faef048e" configVersion="c9d1a32595a8ca44a9d87ca582ad348b00000000"/>
+		<Metadata name="CommonModule.РаботаСКодомКлиент.Module" id="73ace7ee-6ece-44df-86f6-c0a1faef048e.0" configVersion="11792afbc22d33459bc3fcb7ccbcce9a00000000"/>
 		<Metadata name="CommonModule.РаботаСКодомСервер" id="ce8797ae-7902-48c6-bced-b85a75df546f" configVersion="9d54d29de9c24e45a483d3ae39c2984500000000"/>
 		<Metadata name="CommonModule.РаботаСКодомСервер.Module" id="ce8797ae-7902-48c6-bced-b85a75df546f.0" configVersion="a5ae5952b3645648a4e9d9b03f02793900000000"/>
-		<Metadata name="Configuration.Algo1C" id="558277ad-9977-400a-9e2a-db13a90bb5e8" configVersion="6e9105297bf2c04a89e316d1e7702fec00000000"/>
+		<Metadata name="Configuration.Algo1C" id="558277ad-9977-400a-9e2a-db13a90bb5e8" configVersion="5a634ceacc7ad64196914c2413f259cc00000000"/>
 		<Metadata name="Configuration.Algo1C.HomePageWorkArea" id="58c2f6ca-a699-48a9-9a04-70ab54cf174a.8" configVersion="968b99cb043799468eae5f2e026184d500000000"/>
 		<Metadata name="Configuration.Algo1C.SessionModule" id="58c2f6ca-a699-48a9-9a04-70ab54cf174a.7" configVersion="7225e4c59abec54997ac22709e1a701900000000"/>
 		<Metadata name="Language.Русский" id="01b56051-03fc-48b7-8402-f82c477da1b8" configVersion="2b5d059856a51147bac0f3c89d9d862700000000"/>

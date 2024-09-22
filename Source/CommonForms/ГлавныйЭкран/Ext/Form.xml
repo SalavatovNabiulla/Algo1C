@@ -81,6 +81,20 @@
 					<ContextMenu name="КодКонтекстноеМеню" id="2"/>
 					<ExtendedTooltip name="КодРасширеннаяПодсказка" id="3"/>
 				</InputField>
+				<CheckBoxField name="КонтекстИсполнения" id="31">
+					<DataPath>КонтекстИсполнения</DataPath>
+					<TitleFont ref="style:NormalTextFont" bold="true" italic="false" underline="false" strikeout="false" kind="StyleItem" scale="100"/>
+					<CheckBoxType>Tumbler</CheckBoxType>
+					<BackColor>web:GhostWhite</BackColor>
+					<EditFormat>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>БЛ='На сервере'; БИ='На клиенте'</v8:content>
+						</v8:item>
+					</EditFormat>
+					<ContextMenu name="КонтекстИсполненияКонтекстноеМеню" id="32"/>
+					<ExtendedTooltip name="КонтекстИсполненияРасширеннаяПодсказка" id="33"/>
+				</CheckBoxField>
 				<InputField name="Вывод" id="4">
 					<DataPath>Вывод</DataPath>
 					<AutoMaxWidth>false</AutoMaxWidth>
@@ -255,6 +269,17 @@
 					<v8:Length>0</v8:Length>
 					<v8:AllowedLength>Variable</v8:AllowedLength>
 				</v8:StringQualifiers>
+			</Type>
+		</Attribute>
+		<Attribute name="КонтекстИсполнения" id="6">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Контекст исполнения</v8:content>
+				</v8:item>
+			</Title>
+			<Type>
+				<v8:Type>xs:boolean</v8:Type>
 			</Type>
 		</Attribute>
 	</Attributes>

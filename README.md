@@ -2,4 +2,3 @@
 ---
 <a target="_new" href="https://timeweb.cloud/?i=118883"><img style="border:0px;" src="https://wm.timeweb.ru/images/posters/728x90/728x90-5.jpg"></a>
 ---
-Описание
